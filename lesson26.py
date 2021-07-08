@@ -7,19 +7,3 @@ while i < n:
 
     i += 1
     print(my_tuple)
-
-
-
-
-
-
-
-# n = int(input('Сколько товаров вы хотите добавить: '))
-# my_str = input("Введите названия товаров через пробел: ")
-# my_list = my_str.split()
-# i = 1
-# while i <= n:
-#     my_tuple = (i, {'название': my_list[i-1]})
-#     i += 1
-#     print(my_tuple)
-
