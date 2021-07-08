@@ -10,17 +10,3 @@ for i in my_list:
         my_list.append(num)
         print(my_list)
         break
-
-
-
-
-# while True:
-#     n = int(input("Enter a rating form 0 to 10: "))
-#     if n < 0 or n > 10:
-#         print("It isn't correct")
-#     else:
-#         k = my_list.count(n)
-#         m = my_list.index(n)
-#         my_list.insert(k + m, n)
-#         print(my_list)
-#
